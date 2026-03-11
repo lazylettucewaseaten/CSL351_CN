@@ -1,0 +1,5 @@
+FlowID Throughput(Kbps) Goodput(Kbps) LostPackets
+1 2874.13 4825.94 7
+2 1069.27 1867.23 0
+3 0.291667 5.125 0
+5 1979.87 1874.47 0
