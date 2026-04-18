@@ -1,0 +1,6 @@
+ashish.com 10.7.8.9
+video.server.com 127.0.0.1
+cam.network.local 192.168.1.10
+google.dns 8.8.8.8
+random.com 192.168.0.1
+testing.com 10.8.7.9
